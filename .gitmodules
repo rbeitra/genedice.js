@@ -1,0 +1,9 @@
+[submodule "libs/ammo.js"]
+	path = libs/ammo.js
+	url = git://github.com/kripken/ammo.js.git
+[submodule "libs/csg.js"]
+	path = libs/csg.js
+	url = git://github.com/evanw/csg.js.git
+[submodule "libs/underscore.js"]
+	path = libs/underscore.js
+	url = git://github.com/documentcloud/underscore.git
