@@ -7,3 +7,6 @@
 [submodule "libs/underscore.js"]
 	path = libs/underscore.js
 	url = git://github.com/documentcloud/underscore.git
+[submodule "libs/GLU.js"]
+	path = libs/GLU.js
+	url = git@github.com:rbeitra/GLU.js.git
